@@ -1,0 +1,18 @@
+
+{"output":{
+  "week_number": 17,
+  "utc_offset": "+05:30",
+  "utc_datetime": "2020-04-21T07:10:39.364221+00:00",
+  "unixtime": 1587453039,
+  "timezone": "Asia/Kolkata",
+  "raw_offset": 19800,
+  "dst_until": null,
+  "dst_offset": 0,
+  "dst_from": null,
+  "dst": false,
+  "day_of_year": 112,
+  "day_of_week": 2,
+  "datetime": "2020-04-21T12:40:39.364221+05:30",
+  "client_ip": "202.142.69.39",
+  "abbreviation": "IST"
+}}
