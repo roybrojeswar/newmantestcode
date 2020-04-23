@@ -32,7 +32,7 @@
                     <environment>Sandbox</environment>
                    <workerType>Micro</workerType>
                     <workers>1</workers>
-                   <applicationName>newmantest-service-br</applicationName>
+                   <applicationName>newmantest-service-api</applicationName>
 				<objectStoreV2>true</objectStoreV2>
 				</cloudHubDeployment>
 				</configuration>
